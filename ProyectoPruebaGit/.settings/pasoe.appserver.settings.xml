@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module-content version="12.8">
+    <module id="b66140ed-2362-44cf-8ea6-3792154f62a8" name="ProyectoPruebaGit">
+        <resource path="AppServer" publish="true"/>
+    </module>
+</module-content>
