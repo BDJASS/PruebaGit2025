@@ -30,7 +30,7 @@ DEFINE TEMP-TABLE ttMoneda NO-UNDO
 /* **********************  Internal Procedures  *********************** */
 
 @openapi.openedge.export(type="REST", useReturnValue="false", writeDataSetBeforeImage="false").
-PROCEDURE GetMoneda:
+PROCEDURE Get:
 /*------------------------------------------------------------------------------
  Purpose:
  Notes:

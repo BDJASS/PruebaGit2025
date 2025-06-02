@@ -3,4 +3,7 @@
   <prgs:resource consumes="application/json" name="_Catalogo" path="/Catalogo" produces="application/json">
     <prgs:operation consumes="application/json" idls="ProyectoPruebaGit/.services/AppServer/CatalogoMoneda.pidl::com.progress.openedge.pdt.bpmbindings" name="CatalogoMoneda..GetMoneda" produces="application/json" verb="GET"/>
   </prgs:resource>
+  <prgs:resource consumes="application/json" name="_Catalogo2" path="/Catalogo2" produces="application/json">
+    <prgs:operation consumes="application/json" idls="ProyectoPruebaGit/.services/AppServer/CatalogoMoneda2.pidl::com.progress.openedge.pdt.bpmbindings" name="CatalogoMoneda2..Get" produces="application/json" verb="GET"/>
+  </prgs:resource>
 </prgs:model>
