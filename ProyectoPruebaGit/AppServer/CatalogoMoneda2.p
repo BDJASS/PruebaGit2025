@@ -42,9 +42,9 @@ PROCEDURE Get:
         BUFFER-COPY Moneda TO ttMoneda.    
         ASSIGN 
             ttMoneda.IdMoneda = Moneda.Id-Moneda
-            ttMoneda.Nombre   = Moneda.Nombre
+            ttMoneda.Nombre   = ""
             ttMoneda.TpoCamb  = Moneda.TpoCamb
-            ttMoneda.Simbolo  = Moneda.Simbolo. 
+            ttMoneda.Simbolo  = "". 
         RELEASE ttMoneda.
     END.
 
