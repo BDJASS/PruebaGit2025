@@ -44,7 +44,7 @@ PROCEDURE GetMoneda:
             ttMoneda.IdMoneda = Moneda.Id-Moneda
             ttMoneda.Nombre   = Moneda.Nombre
             ttMoneda.TpoCamb  = Moneda.TpoCamb
-            ttMoneda.Simbolo  = Moneda.Simbolo. 
+            ttMoneda.Simbolo  = "". 
         RELEASE ttMoneda.
     END.
 
