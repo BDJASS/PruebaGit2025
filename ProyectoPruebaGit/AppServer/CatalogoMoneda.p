@@ -3,7 +3,7 @@
     File        : Catalogo Moneda
     Purpose     : /Moneda
 
-    Syntax      : Se usa en Reportes de Carter
+    Syntax      : Se usa en Reportes de Carteras
 
     Nombreiption : 
 
